@@ -1,0 +1,55 @@
+.main-page {
+  background-color: #d7e7ef;
+  padding: 1em;
+  margin: 2em;
+}
+
+.card {
+  padding: 0.5em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+.card-text {
+  font-size: 1em;
+  margin: 0.5em;
+}
+
+#title-career {
+  margin-top: 0.5em;
+}
+
+blockquote {
+  padding: 1.2em;
+}
+
+#title-quads {
+  margin-bottom: 0.5em;
+}
+
+#read-more {
+  margin-top: 1em;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 5.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.1em;
+}
+
+h2 {
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-family: 'Bowlby One SC', cursive;
+  margin-bottom: 0.5em;
+}
+
+
+
